@@ -109,7 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+REACT__APP_weather_api_key = "ed4db63be0b05044afddd7c35890d616"
+REACT__APP_g_key = "AIzaSyCjc5j3spClypBnA-h2Y8JEfF20qHf85ew"
 # Spyder project settings
 .spyderproject
 .spyproject
